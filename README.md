@@ -1,0 +1,2 @@
+# RexicBot
+Some Kewl things
